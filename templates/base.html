@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="/style.css" rel="stylesheet">
+        <link rel="icon" href="/favicon.png">
+        <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+        <link rel="author" href="humans.txt" />
+        <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}" />
+    </head>
+    <body>
+        <nav>
+        </nav>
+        <div class="container">
+            {% block content %}{% endblock %}
+        </div>
+        <footer>
+        </footer>
+    </body>
+    {% block scripts %}{% endblock %}
+</html>
