@@ -1,0 +1,10 @@
+# Built site
+public/
+
+# Pre-compiled binaries
+static/js/lazy-fonts.js
+static/js/lazy-videos.js
+static/js/minaide.js
+static/js/yoki.js
+static/svg/inktype-icons/
+static/css/inktype/
