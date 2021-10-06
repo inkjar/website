@@ -1,9 +1,46 @@
 {% extends "base.html" %}
 
+{% block nav %}
+<div class="extras">
+	<a href="/apply"><button>Apply</button></a>
+</div>
+<hammy>
+	<hammy-item>
+		Illustration
+		<aside>
+			<img src="img/logos/illustration.jpg" />
+		</aside>
+	</hammy-item>
+	<hammy-item>
+		Photography
+		<aside>
+			<img src="img/logos/photography.jpg" />
+		</aside>
+	</hammy-item>
+	<hammy-item>
+		Web Design
+		<aside>
+			<img src="img/logos/webdesign.jpg" />
+		</aside>
+	</hammy-item>
+</hammy>
+{% endblock nav %}
+
 {% block content %}
-<h1 class="title">Inkjar_</h1>
+<div id="hero" lazy-video="video/bg.mp4">
+	<img src="img/logos/main.jpg" rel="Inkjar logo" />
+	<h2>For artists, by artists.</h2>
+	<h1 class="title">We are Inkjar_</h1>
+</div>
+<main>
+	<div id="about" class="t-col">
+
+	</div>
+</main>
 {% endblock content %}
 
 {% block scripts %}
 <script async defer src="js/lazy-video.js"></script>
+<script async defer src="js/butter-scroll.js"></script>
+<script async defer src="js/hammy.js"></script>
 {% endblock scripts %}
