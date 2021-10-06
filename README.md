@@ -9,7 +9,7 @@
         - [doamatto/minaide](https://github.com/doamatto/minaide)
         - [doamatto/yoki](https://github.com/doamatto/yoki)
     - `static/svg/`: [inkjar/inktype-icons](https://github.com/inkjar/inktype-icons)
-    - ~~`static/css/`: [inkjar/inktype](https://github.com/inkjar/inktype)~~
+    - `static/css/`: ~~[inkjar/inktype](https://github.com/inkjar/inktype)~~
 3. Run the compiler (`zola build`)
 
 ## Acknowledgements
