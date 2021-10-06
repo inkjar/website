@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+<header lazy-bg="img/division/{{page.slug}}/banner.jpg">
+	{{ page.title }}
+</header>
+<main>
+	<div class="readable">
+		{% if page.extra.apply %}
+			<div class="cta">
+				<p><b>Interested in becoming a member?</b> The {{page.title | lower}} division has openings. <a href="/apply">Apply today.</a>
+		{% endif %}
+		{{ page.content | safe }}
+	</div>
+</main>
+{% endblock content %}
+
+{% block scripts %}
+<script async defer src="js/lazy-bg.js"></script>
+{% endblock scripts %}
