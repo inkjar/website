@@ -41,6 +41,12 @@ If we don't accept your commission, this data is deleted shortly after notificat
 
 We utilise Minaide, a sandboxed helper for embeded YouTube videos, to help protect your privacy further, but, in the event that you go to the form directly or use the embed video when visiting our site without JavaScript, additional trackers and cookies may be placed that our outside of our control.
 
+We use on-device JavaScript to detect the following things as well:
+- if fonts we need are installed already (namely JetBrains Mono)
+-
+
+Knowing that not everyone can use JavaScript, however, we provide numerous fall-backs to aid those who may need to have JavaScript disabled for whatever reason.
+
 ## What data do third-parties have access to?
 When you apply for a position at Inkjar or submit a commission request, you submit the data through Google Forms. Google, in theory, has access to all the data submitted through this form and stored on Google's servers.
 
