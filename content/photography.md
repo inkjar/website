@@ -3,7 +3,7 @@ title = "Photography"
 template="division.html"
 
 [extra]
-apply=false
+apply=true
 +++
 
 Loreum ipsum.
