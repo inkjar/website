@@ -5,7 +5,6 @@
 2. Add latest releases of the following to:
     - `static/js/`:
         - [inkjar/lazy-bg](https://github.com/inkjar/lazy-bg)
-        - ~~[inkjar/lazy-fonts](https://github.com/inkjar/lazy-fonts)~~
         - [inkjar/lazy-videos](https://github.com/inkjar/lazy-videos)
         - [doamatto/minaide](https://github.com/doamatto/minaide)
     - `static/svg/`: [inkjar/inktype-icons](https://github.com/inkjar/inktype-icons)
