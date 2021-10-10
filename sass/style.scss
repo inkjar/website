@@ -1,0 +1,138 @@
+:root {
+    --red: #f53039;
+}
+
+html,
+body {
+    font-family: 'Segoe UI',
+                 'sans-serif';
+    text-rendering: optimizeLegibility;
+    -webkit-font-feature-settings: "liga" on, "calt" on;
+    -webkit-font-smoothing: antialiased;
+    a {
+        color: #0d52bf;
+        &:hover,
+        &:focus { color: #002e99; }
+    }
+    @media (prefers-color-scheme: dark) {
+        background: #1a1a1a;
+        color: #fafafa;
+        a {
+            color: #f53039;
+            &:hover,
+            &:focus { color: #c6262e; }
+        }
+    }
+}
+
+a {
+  button {
+    padding: .5rem 2rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 100ms ease-in-out;
+    text-align: center;
+    text-decoration: none;
+    border-radius: .25rem;
+    appearance: none;
+    background-color: #a10705;
+    background-image: linear-gradient(to bottom,#c6262e,#a10705);
+    border-color: #a10705;
+    color: white;
+    font-weight: 700;
+    &:hover {
+      background-image: linear-gradient(to bottom,#a10705,#7a0000);
+      background-color: #a10705;
+    }
+  }
+}
+
+.f-c {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+table {
+    background: #0e141f;
+    color: white;
+    border-collapse: collapse;
+    th { background: #273445; }
+    th,
+    td { padding: .5rem 2rem; }
+}
+
+.btns {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    a {
+        margin-top: .2rem;
+        margin-bottom: .2rem;
+    }
+    @media (min-width: 800px) {
+      flex-direction: row;
+      justify-content: center;
+      a > button {
+        max-width: 100%;
+        width: auto;
+      }
+      a {
+        display: inline-block;
+        margin-left: .5rem;
+        margin-right: .5rem;
+      }
+    }
+}
+
+header {
+    text-align: center;
+    font-family: 'JetBrains Mono', monospace;
+    h1,
+    .title,
+    .t {
+        font-size: 2.5rem;
+        font-weight: bold;
+    }
+    .t {
+        margin-top: .75rem;
+        margin-bottom: .75rem;
+    }
+    .t > b {
+        color: var(--red);
+    }
+    @media (min-size: 800px) {
+        h1,
+        .title { font-size: 3.5rem; }
+    }
+}
+footer {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.readable { margin: auto 2rem; }
+
+nav {
+    text-align: center;
+    #top {
+        font-size: 2rem;
+        font-family: 'JetBrains Mono', monospace;
+    }
+    ul {
+        display: flex;
+        flex-direction: column;
+        padding-left: 0;
+        list-style: none;
+        @media (min-size: 600px) {
+            flex-direction: row;
+        }
+    }
+}
+
+.cta {
+    background: #273445;
+    font-size: 1.1rem;
+    padding: .25rem 1rem;
+}
