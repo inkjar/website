@@ -12,5 +12,5 @@ Loreum ipsum.
 - **Your project**&mdash; Need photos for an event? [Reach out to us](/commissions)
 
 ## Our core team
-- **Quy Pham**&mdash; Branch Manager ([email](mailto:qpham@inkjar.net) \| [personal portfolio](#))
-- **Tyler Thai**&mdash; Manager ([email](mailto:tthai@inkjar.net) \| [personal portfolio](#))
+- **Quy Pham**&mdash; Branch Manager ([email](mailto:qpham@inkjar.org) \| [personal portfolio](#))
+- **Tyler Thai**&mdash; Manager ([email](mailto:tthai@inkjar.org) \| [personal portfolio](#))
