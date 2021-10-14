@@ -71,7 +71,7 @@ Upon request, you have the right to have all data stored about you archived and 
 Upon request, you have the right to have all data stored about you deleted from our records and, to our knowledge, Google's. Due to legal reasons, if a commission is paid for, we have to keep this commission until the end of that fiscal year.
 
 ### How to make data requests
-Write to us at [gdpr@inkjar.net](mailto:gdpr@inkjar.net) with your full name and the email address you've provided to us. Within 72 hours, we will get back to you confirming your request, as well as provide you with when we will be able to complete your request.
+Write to us at [gdpr@inkjar.org](mailto:gdpr@inkjar.org) with your full name and the email address you've provided to us. Within 72 hours, we will get back to you confirming your request, as well as provide you with when we will be able to complete your request.
 
 ## Data storage, security, and breaches
 All data is encrypted using modern, standardised, and secure methods. Emails are sent to and from our servers use SPF and secure mail servers to protect both our privacy and yours, as well as better validate email authenticity. Our sites use HSTS, only use HTTPS, and have strict CSP policies to prevent any malicious scripts from being run. We sign DPAs and other privacy agreements to ensure data is handled strictly for the purpose of providing our services with other companies we work with to protect your data.
@@ -79,6 +79,6 @@ All data is encrypted using modern, standardised, and secure methods. Emails are
 We take appropriate measures to protect the data we store and to configure our servers to prevent data breaches, but no system or configuration is perfect, so we cannot assume responsibility in the event of a misconfiguration, poor setup, or conditions out of our control, cause data loss. In the event of a data breach, we'll notify all of the contact methods we can to disclose this breach within 72 hours of us becoming aware of such breach.
 
 ## Contact and other notes
-You can write to [legal@inkjar.net](mailto:legal@inkjar.net) to get help as swiftly as possible on amending and fixing this document, as well as get answers to questions regarding this policy.
+You can write to [legal@inkjar.org](mailto:legal@inkjar.org) to get help as swiftly as possible on amending and fixing this document, as well as get answers to questions regarding this policy.
 
 You can both see this site's source code and see the history of this policy on GitHub [here.](https://github.com/inkjar/inkjar.github.io/blob/main/content/privacy.md) 
