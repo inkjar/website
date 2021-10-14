@@ -16,6 +16,6 @@ As designers and engineers, we think on our feet to create breathtaking sites th
 - **Your site**&mdash; Need a website for your club? [Reach out to us](/commissions)
 
 ## Our core team
-- **Matt Ronchetto**&mdash; Branch Manager and Solutions Engineer ([email](mailto:mronchetto@inkjar.net) \| [personal portfolio](https://doamatto.xyz))
-- **Daniel Calderon**&mdash; Lead Web Designer and Systems Administrator ([email](mailto:dcalderon@inkjar.net) \| [personal portfolio](https://cyckl.net))
+- **Matt Ronchetto**&mdash; Branch Manager and Solutions Engineer ([email](mailto:mronchetto@inkjar.org) \| [personal portfolio](https://doamatto.xyz))
+- **Daniel Calderon**&mdash; Lead Web Designer and Systems Administrator ([email](mailto:dcalderon@inkjar.org) \| [personal portfolio](https://cyckl.net))
 - **You**&mdash; We're actively looking for new members. [See what positions are open.](/apply)
