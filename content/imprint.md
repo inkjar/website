@@ -4,7 +4,7 @@ title = "Imprint"
 
 ## Contact information
 Inkjar<br/>
-**Email:** [legal \[at\] inkjar.net](mailto:legal@inkjar.net)<br/>
+**Email:** [legal@inkjar.org](mailto:legal@inkjar.org)<br/>
 **Please note:** the email provided is not for support, and purely for legal purposes.
 
 Represented in the U.S. by: Joshua Tang<br/>
