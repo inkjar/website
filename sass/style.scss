@@ -9,19 +9,12 @@ body {
     text-rendering: optimizeLegibility;
     -webkit-font-feature-settings: "liga" on, "calt" on;
     -webkit-font-smoothing: antialiased;
+    background: #1a1a1a;
+    color: #fafafa;
     a {
-        color: #0d52bf;
+        color: #f53039;
         &:hover,
-        &:focus { color: #002e99; }
-    }
-    @media (prefers-color-scheme: dark) {
-        background: #1a1a1a;
-        color: #fafafa;
-        a {
-            color: #f53039;
-            &:hover,
-            &:focus { color: #c6262e; }
-        }
+        &:focus { color: #c6262e; }
     }
 }
 
