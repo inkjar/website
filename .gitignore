@@ -8,3 +8,6 @@ static/js/minaide.js
 static/js/yoki.js
 static/svg/inktype-icons/
 static/css/inktype/
+
+# Editor artifacts
+*.kate-swp
