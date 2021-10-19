@@ -13,5 +13,5 @@ Loreum ipsum.
 
 ## Our core team
 - **Tian Schmidt**&mdash; Branch Manager ([email](mailto:tschmidt@inkjar.org) \| [personal portfolio](#))
-- **Lily**&mdash; Member ([email](mailto:l@inkjar.org) \| [personal portfolio](#))
+- **DT**&mdash; Member ([email](mailto:l@inkjar.org) \| [personal portfolio](#))
 - **Mia Hill**&mdash; Member ([email](mailto:mhill@inkjar.org) \| [personal portfolio](#))
