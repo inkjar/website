@@ -2,7 +2,7 @@
 title = "Contact"
 +++
 
-For quick and simple questsion, [Instagram](https://instagram.com/inkjar_) is a great option. For everything else, [email](mailto:questions@inkjar.org) is preferred.
+For quick and simple questions, [Instagram](https://instagram.com/inkjar_) is a great option. For everything else, [email](mailto:questions@inkjar.org) is preferred.
 
 ## Important email addresses
 You can get in touch quickly with important people right away:
