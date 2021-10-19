@@ -16,15 +16,13 @@
     <body>
         <nav>
             {% block nav %}
-            <p id="top"><a href="/">Inkjar</a></p>
+            <a href="/"><img src="/img/wordmark.svg" rel="Inkjar" /></a>
             <ul>
-                <li><a href="/divisions">Divisions</a></li>
+                <li><a href="#divisions">Divisions</a></li>
                 <li><a href="/contact">Contact</a></li>
+                <li><a href="/apply">Apply</a></li>
+                <li><a href="/commissions"><button>Request commission</button></a></li>
             </ul>
-            <div class="btns">
-                <a href="/apply"><button>Apply</button></a>
-                <a href="/commissions"><button>Request a commission</button></a>
-            </div>
             {% endblock %}
         </nav>
         <div class="container">
