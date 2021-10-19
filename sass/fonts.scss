@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'EB Garamond';
+    src: url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/webfonts/EBGaramond-Regular.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/ttf/EBGaramond-Regular.ttf') format('truetype');
+    font-display: auto;
+    unicode-range: U+000-5FF;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url("https://rsms.me/inter/font-files/Inter-Thin.woff2?v=3.19") format("woff2"),
+         url("https://rsms.me/inter/font-files/Inter-Thin.woff?v=3.19") format("woff");
+    font-display: auto;
+    unicode-range: U+000-5FF;
+}
