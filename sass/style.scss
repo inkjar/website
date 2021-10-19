@@ -4,7 +4,8 @@
 
 html,
 body {
-    font-family: 'Segoe UI',
+    font-family: 'Inter',
+                 'Segoe UI',
                  sans-serif;
     text-rendering: optimizeLegibility;
     -webkit-font-feature-settings: "liga" on, "calt" on;
@@ -81,7 +82,8 @@ table {
 
 header {
     text-align: center;
-    font-family: 'JetBrains Mono', monospace;
+    font-family: 'EB Garamond', 
+                 sans-serif;
     h1,
     .title,
     .t {
@@ -112,7 +114,8 @@ nav {
     #top {
         font-size: 2rem;
         font-weight: 600;
-        font-family: 'JetBrains Mono', monospace;
+        font-family: 'EB Garamond', 
+                     sans-serif;
     }
     ul {
         display: flex;
