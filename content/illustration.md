@@ -14,4 +14,4 @@ Loreum ipsum.
 ## Our core team
 - **Josh Tang**&mdash; Interim Branch Manager ([email](mailto:jtang@inkjar.org) \| [personal portfolio](#))
 - **Matt Ronchetto**&mdash; Interim Member ([email](mailto:mronchetto@inkjar.org) \| [personal portfolio](https://doamatto.xyz))
-- **DT**&mdash; Member ([email](lgian@inkjar.org) \| [personal portfolio](#))
+- **DT**&mdash; Member ([email](mailto:lgian@inkjar.org) \| [personal portfolio](#))
