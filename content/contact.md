@@ -20,4 +20,4 @@ Like any organisation these days, we're all over the Internet. You can follow us
 
 - [GitHub&mdash; /orgs/inkjar](https://github.com/orgs/inkjar)
 - [Instagram&mdash; @inkjar_](https://instagram.com/inkjar_)
-- [LinkedIn&mdash; /company/inkjar](https://linkedin.com/company/inkjar)
+- [LinkedIn&mdash; /company/the-inkjar](https://www.linkedin.com/company/the-inkjar)
