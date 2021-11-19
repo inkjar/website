@@ -7,11 +7,17 @@ body {
 div.hero {
 	display: flex;
 	flex-direction: column;
-	background: black;
-	color: white;
 	height: 100vh;
-	background-image: radial-gradient(#fff 0.6000000000000001px, #000 0.6000000000000001px);
-	background-size: 1em 1em;
+	background-image: radial-gradient(black 0.1vh, white 0.1vh);
+	background-size: 3vh 3vh;
+	background-position: center center;
+}
+
+div.section {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
 }
 
 div.heroMain {
@@ -41,7 +47,13 @@ nav > * {
 .navButton {
 	margin-left: 0.5em;
 	padding: 0.5em 1em;
-	color: black;
-	background: white;
+	color: white;
+	background: black;
 	border-radius: 0.5em;
+}
+
+main {
+	max-width: 80ch;
+	margin: 0 auto;
+	padding: 2em;
 }
