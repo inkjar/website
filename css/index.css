@@ -10,6 +10,8 @@ div.hero {
 	background: black;
 	color: white;
 	height: 100vh;
+	background-image: radial-gradient(#fff 0.6000000000000001px, #000 0.6000000000000001px);
+	background-size: 1em 1em;
 }
 
 div.heroMain {
