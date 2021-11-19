@@ -20,13 +20,6 @@ div.section {
 	justify-content: center;
 }
 
-div.heroMain {
-	flex-grow: 2;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-}
-
 header {
 	display: flex;
 	justify-content: space-between;
@@ -56,4 +49,12 @@ main {
 	max-width: 80ch;
 	margin: 0 auto;
 	padding: 2em;
+}
+
+
+main.heroMain {
+	flex-grow: 2;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
