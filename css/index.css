@@ -39,6 +39,9 @@ nav > * {
 
 .navButton {
 	margin-left: 0.5em;
+}
+
+button {
 	padding: 0.5em 1em;
 	color: white;
 	background: black;
