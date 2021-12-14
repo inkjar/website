@@ -41,6 +41,10 @@ nav > * {
 	color: unset !important;
 }
 
+nav > a > button {
+	margin: 0;
+}
+
 .navButton {
 	margin-left: 0.5em;
 }
@@ -51,6 +55,7 @@ button {
 	background: black;
 	border-radius: 0.5em;
 	border-style: none;
+	margin: 1em 0;
 }
 
 main {
