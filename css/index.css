@@ -4,6 +4,10 @@ body {
 	font-size: 0.9em;
 }
 
+a, a:visited {
+	color: #27D;
+}
+
 div.hero {
 	display: flex;
 	flex-direction: column;
@@ -34,7 +38,7 @@ header {
 nav > * {
 	margin: 0 0.25em;
 	text-decoration: none;
-	color: unset;
+	color: unset !important;
 }
 
 .navButton {
@@ -46,6 +50,7 @@ button {
 	color: white;
 	background: black;
 	border-radius: 0.5em;
+	border-style: none;
 }
 
 main {
@@ -53,7 +58,6 @@ main {
 	margin: 0 auto;
 	padding: 2em;
 }
-
 
 main.heroMain {
 	flex-grow: 2;
