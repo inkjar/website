@@ -4,6 +4,10 @@ body {
 	font-size: 0.9em;
 }
 
+tr:nth-child(2n+1) {
+	background: #ddd;
+}
+
 a, a:visited {
 	color: #27D;
 }
@@ -61,7 +65,14 @@ button {
 main, footer {
 	max-width: 80ch;
 	margin: 0 auto;
-	padding: 2em;
+}
+
+main {
+	padding-top: 2em;
+}
+
+footer {
+	padding-bottom: 2em;
 }
 
 main.heroMain {
