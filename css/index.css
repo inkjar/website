@@ -2,10 +2,11 @@ body {
 	margin: 0;
 	font-family: "Inter", sans-serif;
 	font-size: 0.9em;
+	line-height: 1.5em;
 }
 
 tr:nth-child(2n+1) {
-	background: #ddd;
+	background: #eee;
 }
 
 a, a:visited {
@@ -60,6 +61,11 @@ button {
 	border-radius: 0.5em;
 	border-style: none;
 	margin: 1em 0.5em;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
 }
 
 main, footer {
