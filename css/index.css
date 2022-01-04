@@ -1,8 +1,11 @@
 body {
 	margin: 0;
+	line-height: 1.5em;
+}
+
+body, button {
 	font-family: "Inter", sans-serif;
 	font-size: 0.9em;
-	line-height: 1.5em;
 }
 
 tr:nth-child(2n+1) {
